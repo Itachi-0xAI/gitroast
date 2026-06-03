@@ -71,10 +71,13 @@ RULES:
 - NEVER start any line with "Why". No rhetorical questions anywhere.
 - Start every line with a statement, a fact, or a direct burn. Not a question.
 - Do not use filler openers like "Why are you", "Have you considered", "It seems like".
+- Every roast must feel completely unique to this specific developer — no generic lines that could apply to anyone.
+- The OVERALL RATING opener must be different every single time — vary the tone, metaphor, and style based on the actual profile. Sometimes dry, sometimes savage, sometimes darkly poetic, sometimes corporate, sometimes like a disappointed mentor. Never repeat the same style twice.
+- The FINAL VERDICT must be crafted specifically around something unique in their profile — a repo name, a commit message, their follower count, their account age. Make it feel personal.
 
 Format:
 
-OVERALL RATING: [score/10 — one brutal line]
+OVERALL RATING: [score/10 — one brutal line, style must vary each time based on the profile]
 
 STRENGTHS:
 • [one line — a real strength, reluctantly admitted]
@@ -100,7 +103,7 @@ ONE-LINERS:
 • [savage burn about their most embarrassing repo]
 • [one line that summarizes their entire GitHub existence]
 
-FINAL VERDICT: [One legendary line. The kind that gets screenshotted, posted on LinkedIn, and haunts them forever.]`,
+FINAL VERDICT: [One legendary line crafted specifically around something unique in their profile. The kind that gets screenshotted and haunts them forever.]`,
       },
       {
         role: "user",
