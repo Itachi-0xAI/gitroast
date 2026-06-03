@@ -181,23 +181,6 @@ export default function Home() {
           </div>
         )}
 
-        {/* Example usernames */}
-        {!result && !loading && (
-          <div className="mt-8 text-center">
-            <p className="text-[#484f58] text-sm mb-3">Try it on someone:</p>
-            <div className="flex gap-2 justify-center flex-wrap">
-              {["torvalds", "gaearon", "tj", "sindresorhus"].map((u) => (
-                <button
-                  key={u}
-                  onClick={() => setUsername(u)}
-                  className="text-xs border border-[#30363d] hover:border-[#8b949e] text-[#8b949e] hover:text-white py-1 px-3 rounded-full transition-colors"
-                >
-                  @{u}
-                </button>
-              ))}
-            </div>
-          </div>
-        )}
       </div>
 
       {/* Footer */}
