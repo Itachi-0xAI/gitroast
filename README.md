@@ -5,7 +5,7 @@
 Paste any GitHub username. Get brutally roasted by AI.
 Because your commit history deserves consequences.
 
-[Try it live →](https://gitroast.vercel.app) | [⭐ Star if it hurt](https://github.com/Itachi-0xAI/gitroast)
+[Try it live →](https://gitroast-app.vercel.app) | [⭐ Star if it hurt](https://github.com/Itachi-0xAI/gitroast)
 
 ---
 
