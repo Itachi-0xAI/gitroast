@@ -1,17 +1,18 @@
-<div align="center">
+# GitRoast 🔥
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f85149&height=200&section=header&text=🔥%20GitRoast&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Your%20GitHub%2C%20reviewed%20by%20a%20senior%20engineer%20who%20hates%20everything&descAlignY=55&descSize=18&descColor=ffcccc" />
+> AI just called your GitHub "a graveyard of unfinished ideas" 💀
+
+Paste any GitHub username. Get brutally roasted by AI.
+Because your commit history deserves consequences.
+
+[Try it live →](https://gitroast.vercel.app) | [⭐ Star if it hurt](https://github.com/Itachi-0xAI/gitroast)
+
+---
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-orange?style=for-the-badge)](https://groq.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Itachi-0xAI/gitroast?style=for-the-badge&color=f85149)](https://github.com/Itachi-0xAI/gitroast/stargazers)
-
-### Enter any GitHub username. Get brutally roasted by AI. Share the pain on LinkedIn.
-
-[🔥 Try it Live](#) &nbsp;·&nbsp; [⭐ Star this repo](https://github.com/Itachi-0xAI/gitroast) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/Itachi-0xAI/gitroast/issues)
-
-</div>
 
 ---
 
