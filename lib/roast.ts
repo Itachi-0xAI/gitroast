@@ -68,6 +68,9 @@ RULES:
 - No long paragraphs. Everything is short, sharp, and brutal.
 - Quote their actual commit messages directly. Name their actual repos.
 - Do not be nice. Do not soften anything. Be specific and savage.
+- NEVER start any line with "Why". No rhetorical questions anywhere.
+- Start every line with a statement, a fact, or a direct burn. Not a question.
+- Do not use filler openers like "Why are you", "Have you considered", "It seems like".
 
 Format:
 
