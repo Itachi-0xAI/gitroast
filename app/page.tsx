@@ -184,7 +184,7 @@ export default function Home() {
         {/* Example usernames */}
         {!result && !loading && (
           <div className="mt-8 text-center">
-            <p className="text-[#484f58] text-sm mb-3">Try it on a legend:</p>
+            <p className="text-[#484f58] text-sm mb-3">Try it on someone:</p>
             <div className="flex gap-2 justify-center flex-wrap">
               {["torvalds", "gaearon", "tj", "sindresorhus"].map((u) => (
                 <button
